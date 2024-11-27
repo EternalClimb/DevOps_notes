@@ -2,7 +2,7 @@
 ### Notes for self on managing software development environments
 ====
 
-Task: Install Docker Desctop to a custom directory on Windows system (Powershell command)
+Task: Install Docker Desktop to a custom directory on Windows system (Powershell command)
 Source: https://docs.docker.com/desktop/install/windows-install/#install-from-the-command-line
 
 	Start-Process 'Docker Desktop Installer.exe' -Wait -ArgumentList "install -y --accept-license --installation-dir=G:\CodingEnv\Docker '
